@@ -5,7 +5,7 @@ import datetime
 
 class Date(datetime.date):
 	"""
-	Overrides datetime.date object's __repr__ mathod
+	Overrides datetime.date object's __repr__ method
 
 	Only purpose is the nice representation of a date
 	"""

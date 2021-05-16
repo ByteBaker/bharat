@@ -19,7 +19,7 @@ Installation
 
 As usual:
 
-    pip install git+https://github.com/bytebaker/bharat
+    pip install bharat
 
 Features
 --------
